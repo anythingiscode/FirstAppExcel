@@ -1,0 +1,15 @@
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\bin\Debug\Excel_VSTO_1.dll
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\bin\Debug\Excel_VSTO_1.pdb
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\bin\Debug\Excel_VSTO_1.dll.manifest
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\bin\Debug\Excel_VSTO_1.vsto
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\bin\Debug\Excel_VSTO_1.xlsx
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\obj\Debug\Excel_VSTO_1.csproj.AssemblyReference.cache
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\obj\Debug\Excel_VSTO_1.Properties.Resources.resources
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\obj\Debug\Excel_VSTO_1.csproj.GenerateResource.cache
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\obj\Debug\Excel_VSTO_1.csproj.CoreCompileInputs.cache
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\obj\Debug\Excel_VSTO_1.csproj.CopyComplete
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\obj\Debug\Excel_VSTO_1.dll
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\obj\Debug\Excel_VSTO_1.pdb
+C:\ROL\C#\APPs\AppExcel_VSTO\Excel_VSTO_1\Excel_VSTO_1\obj\Debug\Excel_VSTO_1.Feuil1.resources
